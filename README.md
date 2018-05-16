@@ -4,5 +4,7 @@ The purpose of this repository is to document the projects I have used as practi
 Projects will be organized by primary language or application used.
 
 Name: Stephen Giuliani
+
 User: SGiulianiGH
+
 E-mail: stephen.giuliani.07@gmail.com
